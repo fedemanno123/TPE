@@ -1,1 +1,0 @@
-Desarrolladores backend: Desarrollen una función que permita dentro de la pagina, abonar a los clientes con cualquien moneda extranjera que estos dispongan.
